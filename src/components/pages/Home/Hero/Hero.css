@@ -114,6 +114,9 @@
 #hero .hero-bottom-image-group img {
   margin: 0 -13px;
 }
+.image {
+  width: 40px;
+}
 
 @media (max-width: 1440px) {
   #hero .hero-contents .hero-left-side {

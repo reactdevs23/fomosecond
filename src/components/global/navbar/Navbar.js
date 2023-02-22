@@ -39,15 +39,11 @@ const Menu = () => {
                     </Link>
                   </li>
                 ))}
-                <li>
-                  <button className="nav-subscribe-btn effect">
-                    Subscribe
-                  </button>
-                </li>
               </ul>
 
-              <div className="blue-circle"></div>
+              {/* <div className="blue-circle"></div> */}
             </nav>
+            <button className="nav-subscribe-btn effect">Subscribe</button>
           </div>
         </div>
 
