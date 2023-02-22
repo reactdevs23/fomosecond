@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Offcanvas } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import Iframe from "react-iframe";
+
 import "./Navbar.css";
 
 const Menu = () => {
