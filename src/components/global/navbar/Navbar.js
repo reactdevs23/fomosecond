@@ -11,8 +11,7 @@ const Menu = () => {
     },
 
     {
-      name: "Magazine",
-      link: "#",
+      name: "Buy FOMO Magazine",
     },
     {
       name: "Youtube",
