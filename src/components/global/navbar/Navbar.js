@@ -47,9 +47,12 @@ const Menu = () => {
                   </li>
                 ))}
                 <li>
-                  <button className="nav-subscribe-btn effect">
+                  <a
+                    className="nav-subscribe-btn effect"
+                    href="mailto:email@example.com"
+                  >
                     Subscribe
-                  </button>
+                  </a>
                 </li>
               </ul>
 
