@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section id="hero">
       <div className="container">
-        <div className="hero-contents d-flex flex-column-reverse flex-md-row align-items-center">
+        <div className="hero-contents d-flex flex-column gap-5 gap-md-0 flex-md-row align-items-center">
           <div className="hero-left-side">
             <h1 className="get-smarter-text ">
               Get smarter about <br />
